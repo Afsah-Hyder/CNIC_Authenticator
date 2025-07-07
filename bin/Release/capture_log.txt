@@ -1,0 +1,2146 @@
+6/17/2025 12:23:04 PM: Device opened successfully.
+6/17/2025 12:23:06 PM: Images captured successfully.
+6/17/2025 12:23:06 PM: wh.jpg found. Running OCR...
+6/17/2025 12:23:17 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: Afsah Hyder
+Father Name: Hyder Ali Khan
+CNIC Number: 42201-3817350-8
+Date of Birth: 08.09.2002
+Gender: F
+Country of Stay: Pakistan
+
+6/17/2025 12:23:53 PM: Device opened successfully.
+6/17/2025 12:23:55 PM: Images captured successfully.
+6/17/2025 12:23:55 PM: wh.jpg found. Running OCR...
+6/17/2025 12:24:06 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: Afsah Hyder
+Father Name: Hyder Ali Khan
+CNIC Number: 42201-3817350-8
+Date of Birth: 08.09.2002
+Gender: F
+Country of Stay: Pakistan
+
+6/17/2025 12:24:22 PM: Device opened successfully.
+6/17/2025 12:24:23 PM: Images captured successfully.
+6/17/2025 12:24:23 PM: wh.jpg found. Running OCR...
+6/17/2025 12:24:36 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: Afsah Hyder
+Father Name: Hyder Ali Khan
+CNIC Number: 42201-3817350-8
+Date of Birth: 08.09.2002
+Gender: F
+Country of Stay: Pakistan
+
+6/17/2025 12:24:51 PM: Device opened successfully.
+6/17/2025 12:24:52 PM: Images captured successfully.
+6/17/2025 12:24:52 PM: wh.jpg found. Running OCR...
+6/17/2025 12:25:04 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: Afsah Hyder
+Father Name: Hyder Ali Khan
+CNIC Number: 42201-3817350-8
+Date of Birth: 08.09.2002
+Gender: F
+Country of Stay: Pakistan
+
+6/17/2025 12:25:22 PM: Device opened successfully.
+6/17/2025 12:25:24 PM: Images captured successfully.
+6/17/2025 12:25:24 PM: wh.jpg found. Running OCR...
+6/17/2025 12:25:40 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: Afsah Hyder
+Father Name: Hyder Ali Khan
+CNIC Number: 42201-3817350-8
+Date of Birth: 08.09.2002
+Gender: F
+Country of Stay: Pakistan
+
+6/17/2025 12:25:49 PM: Device opened successfully.
+6/17/2025 12:25:51 PM: Images captured successfully.
+6/17/2025 12:25:51 PM: wh.jpg found. Running OCR...
+6/17/2025 12:26:02 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: Afsah Hyder
+Father Name: Hyder Ali Khan
+CNIC Number: 42201-3817350-8
+Date of Birth: 08.09.2002
+Gender: F
+Country of Stay: Pakistan
+
+6/17/2025 12:26:17 PM: Device opened successfully.
+6/17/2025 12:26:19 PM: Images captured successfully.
+6/17/2025 12:26:19 PM: wh.jpg found. Running OCR...
+6/17/2025 12:26:31 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: Afsah Hyder
+Father Name: Hyder Ali Khan
+CNIC Number: 42201-3817350-8
+Date of Birth: 08.09.2002
+Gender: F
+Country of Stay: Pakistan
+
+6/17/2025 12:26:47 PM: Device opened successfully.
+6/17/2025 12:26:49 PM: Images captured successfully.
+6/17/2025 12:26:49 PM: wh.jpg found. Running OCR...
+6/17/2025 12:27:01 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: Afsah Hyder
+Father Name: Hyder Ali Khan
+CNIC Number: 42201-3817350-8
+Date of Birth: 08.09.2002
+Gender: F
+Country of Stay: Pakistan
+
+6/17/2025 12:38:04 PM: Device opened successfully.
+6/17/2025 12:38:06 PM: Images captured successfully.
+6/17/2025 12:38:06 PM: wh.jpg found. Running OCR...
+6/17/2025 12:38:30 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: Afsah Hyder
+Father Name: Hyder Ali Khan
+CNIC Number: 42201-3817350-8
+Date of Birth: 08.09.2002
+Gender: F
+Country of Stay: Pakistan
+
+6/17/2025 12:38:37 PM: Device opened successfully.
+6/17/2025 12:38:39 PM: Images captured successfully.
+6/17/2025 12:38:39 PM: wh.jpg found. Running OCR...
+6/17/2025 12:39:06 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: Afsah Hyder
+Father Name: Hyder Ali Khan
+CNIC Number: 42201-3817350-8
+Date of Birth: 08.09.2002
+Gender: F
+Country of Stay: Pakistan
+
+6/17/2025 12:39:44 PM: Device opened successfully.
+6/17/2025 12:39:47 PM: Images captured successfully.
+6/17/2025 12:39:47 PM: wh.jpg found. Running OCR...
+6/17/2025 12:40:12 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: Afsah Hyder
+Father Name: Hyder Ali Khan
+CNIC Number: 42201-3817350-8
+Date of Birth: 08.09.2002
+Gender: F
+Country of Stay: Pakistan
+
+6/17/2025 12:51:02 PM: Device opened successfully.
+6/17/2025 12:51:04 PM: Images captured successfully.
+6/17/2025 12:51:04 PM: wh.jpg found. Running OCR...
+6/17/2025 12:51:24 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 12:51:35 PM: Device opened successfully.
+6/17/2025 12:51:37 PM: Images captured successfully.
+6/17/2025 12:51:37 PM: wh.jpg found. Running OCR...
+6/17/2025 12:52:02 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 12:53:14 PM: Device opened successfully.
+6/17/2025 12:53:16 PM: Images captured successfully.
+6/17/2025 12:53:16 PM: wh.jpg found. Running OCR...
+6/17/2025 12:53:42 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 12:54:15 PM: Device opened successfully.
+6/17/2025 12:54:17 PM: Images captured successfully.
+6/17/2025 12:54:17 PM: wh.jpg found. Running OCR...
+6/17/2025 12:54:44 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 12:56:33 PM: Device opened successfully.
+6/17/2025 12:56:35 PM: Images captured successfully.
+6/17/2025 12:56:35 PM: wh.jpg found. Running OCR...
+6/17/2025 12:57:07 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 12:57:22 PM: Device opened successfully.
+6/17/2025 12:57:24 PM: Images captured successfully.
+6/17/2025 12:57:24 PM: wh.jpg found. Running OCR...
+6/17/2025 12:57:56 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 1:09:56 PM: Device opened successfully.
+6/17/2025 1:09:58 PM: Images captured successfully.
+6/17/2025 1:09:58 PM: wh.jpg found. Running OCR...
+6/17/2025 1:10:13 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 1:11:07 PM: Device opened successfully.
+6/17/2025 1:11:09 PM: Images captured successfully.
+6/17/2025 1:11:09 PM: wh.jpg found. Running OCR...
+6/17/2025 1:11:20 PM: Device open failed! Return code: -101
+6/17/2025 1:11:21 PM: Device opened successfully.
+6/17/2025 1:11:21 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 1:11:22 PM: Images captured successfully.
+6/17/2025 1:11:22 PM: wh.jpg found. Running OCR...
+6/17/2025 1:11:30 PM: Device opened successfully.
+6/17/2025 1:11:32 PM: Images captured successfully.
+6/17/2025 1:11:32 PM: wh.jpg found. Running OCR...
+6/17/2025 1:11:36 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 1:11:47 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 1:12:24 PM: Device opened successfully.
+6/17/2025 1:12:26 PM: Images captured successfully.
+6/17/2025 1:12:26 PM: wh.jpg found. Running OCR...
+6/17/2025 1:12:39 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 1:12:48 PM: Device opened successfully.
+6/17/2025 1:12:50 PM: Images captured successfully.
+6/17/2025 1:12:50 PM: wh.jpg found. Running OCR...
+6/17/2025 1:13:07 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:25:22 PM: Device opened successfully.
+6/17/2025 2:25:24 PM: Images captured successfully.
+6/17/2025 2:25:24 PM: wh.jpg found. Running OCR...
+6/17/2025 2:25:39 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:25:51 PM: Device opened successfully.
+6/17/2025 2:25:52 PM: Images captured successfully.
+6/17/2025 2:25:52 PM: wh.jpg found. Running OCR...
+6/17/2025 2:26:07 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:26:14 PM: Device opened successfully.
+6/17/2025 2:26:16 PM: Images captured successfully.
+6/17/2025 2:26:16 PM: wh.jpg found. Running OCR...
+6/17/2025 2:26:30 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:29:20 PM: Device opened successfully.
+6/17/2025 2:29:21 PM: Images captured successfully.
+6/17/2025 2:29:21 PM: wh.jpg found. Running OCR...
+6/17/2025 2:29:28 PM: Device opened successfully.
+6/17/2025 2:29:30 PM: Images captured successfully.
+6/17/2025 2:29:30 PM: wh.jpg found. Running OCR...
+6/17/2025 2:29:33 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:29:34 PM: Device opened successfully.
+6/17/2025 2:29:36 PM: Images captured successfully.
+6/17/2025 2:29:36 PM: wh.jpg found. Running OCR...
+6/17/2025 2:29:38 PM: Device opened successfully.
+6/17/2025 2:29:40 PM: Device open failed! Return code: -101
+6/17/2025 2:29:44 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:29:44 PM: Device opened successfully.
+6/17/2025 2:29:44 PM: Capture failed! Return code: -100
+6/17/2025 2:29:46 PM: Images captured successfully.
+6/17/2025 2:29:46 PM: wh.jpg found. Running OCR...
+6/17/2025 2:29:51 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:30:00 PM: Device opened successfully.
+6/17/2025 2:30:01 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:30:02 PM: Images captured successfully.
+6/17/2025 2:30:02 PM: wh.jpg found. Running OCR...
+6/17/2025 2:30:14 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:30:20 PM: Device opened successfully.
+6/17/2025 2:30:25 PM: Device opened successfully.
+6/17/2025 2:30:27 PM: Images captured successfully.
+6/17/2025 2:30:27 PM: wh.jpg found. Running OCR...
+6/17/2025 2:30:30 PM: Capture failed! Return code: -100
+6/17/2025 2:30:39 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:31:00 PM: Device opened successfully.
+6/17/2025 2:31:02 PM: Images captured successfully.
+6/17/2025 2:31:02 PM: wh.jpg found. Running OCR...
+6/17/2025 2:31:17 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:31:25 PM: Device opened successfully.
+6/17/2025 2:31:26 PM: Images captured successfully.
+6/17/2025 2:31:26 PM: wh.jpg found. Running OCR...
+6/17/2025 2:31:41 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:31:59 PM: Device opened successfully.
+6/17/2025 2:32:01 PM: Images captured successfully.
+6/17/2025 2:32:01 PM: wh.jpg found. Running OCR...
+6/17/2025 2:32:17 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:33:53 PM: Device opened successfully.
+6/17/2025 2:33:55 PM: Images captured successfully.
+6/17/2025 2:33:55 PM: wh.jpg found. Running OCR...
+6/17/2025 2:34:09 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:34:19 PM: Device opened successfully.
+6/17/2025 2:34:20 PM: Images captured successfully.
+6/17/2025 2:34:20 PM: wh.jpg found. Running OCR...
+6/17/2025 2:34:34 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:34:58 PM: Device opened successfully.
+6/17/2025 2:35:00 PM: Images captured successfully.
+6/17/2025 2:35:00 PM: wh.jpg found. Running OCR...
+6/17/2025 2:35:15 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:35:31 PM: Device opened successfully.
+6/17/2025 2:35:33 PM: Images captured successfully.
+6/17/2025 2:35:33 PM: wh.jpg found. Running OCR...
+6/17/2025 2:35:47 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:35:59 PM: Device opened successfully.
+6/17/2025 2:36:01 PM: Images captured successfully.
+6/17/2025 2:36:01 PM: wh.jpg found. Running OCR...
+6/17/2025 2:36:16 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:36:21 PM: Device opened successfully.
+6/17/2025 2:36:22 PM: Images captured successfully.
+6/17/2025 2:36:22 PM: wh.jpg found. Running OCR...
+6/17/2025 2:36:38 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:36:48 PM: Device opened successfully.
+6/17/2025 2:36:50 PM: Images captured successfully.
+6/17/2025 2:36:50 PM: wh.jpg found. Running OCR...
+6/17/2025 2:37:05 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:37:31 PM: Device opened successfully.
+6/17/2025 2:37:33 PM: Images captured successfully.
+6/17/2025 2:37:33 PM: wh.jpg found. Running OCR...
+6/17/2025 2:37:51 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:38:46 PM: Device opened successfully.
+6/17/2025 2:38:48 PM: Images captured successfully.
+6/17/2025 2:38:48 PM: wh.jpg found. Running OCR...
+6/17/2025 2:39:06 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:39:37 PM: Device opened successfully.
+6/17/2025 2:39:39 PM: Images captured successfully.
+6/17/2025 2:39:39 PM: wh.jpg found. Running OCR...
+6/17/2025 2:39:59 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:41:44 PM: Device opened successfully.
+6/17/2025 2:41:46 PM: Images captured successfully.
+6/17/2025 2:41:46 PM: wh.jpg found. Running OCR...
+6/17/2025 2:42:06 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:43:28 PM: Device opened successfully.
+6/17/2025 2:43:30 PM: Images captured successfully.
+6/17/2025 2:43:30 PM: wh.jpg found. Running OCR...
+6/17/2025 2:43:49 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:44:01 PM: Device opened successfully.
+6/17/2025 2:44:03 PM: Images captured successfully.
+6/17/2025 2:44:03 PM: wh.jpg found. Running OCR...
+6/17/2025 2:44:24 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Card is correctly placed.
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:45:16 PM: Device opened successfully.
+6/17/2025 2:45:18 PM: Images captured successfully.
+6/17/2025 2:45:18 PM: wh.jpg found. Running OCR...
+6/17/2025 2:45:30 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:45:51 PM: Device opened successfully.
+6/17/2025 2:45:53 PM: Images captured successfully.
+6/17/2025 2:45:53 PM: wh.jpg found. Running OCR...
+6/17/2025 2:46:06 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:46:43 PM: Device opened successfully.
+6/17/2025 2:46:45 PM: Images captured successfully.
+6/17/2025 2:46:45 PM: wh.jpg found. Running OCR...
+6/17/2025 2:46:57 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:47:17 PM: Device opened successfully.
+6/17/2025 2:47:19 PM: Images captured successfully.
+6/17/2025 2:47:19 PM: wh.jpg found. Running OCR...
+6/17/2025 2:47:32 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:47:47 PM: Device opened successfully.
+6/17/2025 2:47:49 PM: Images captured successfully.
+6/17/2025 2:47:49 PM: wh.jpg found. Running OCR...
+6/17/2025 2:48:02 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/17/2025 2:48:16 PM: Device opened successfully.
+6/17/2025 2:48:18 PM: Images captured successfully.
+6/17/2025 2:48:18 PM: wh.jpg found. Running OCR...
+6/17/2025 2:48:31 PM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 11:36:37 AM: Device opened successfully.
+6/18/2025 11:36:39 AM: Images captured successfully.
+6/18/2025 11:36:39 AM: wh.jpg found. Running OCR...
+6/18/2025 11:36:49 AM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 11:38:00 AM: Device opened successfully.
+6/18/2025 11:38:02 AM: Images captured successfully.
+6/18/2025 11:38:02 AM: wh.jpg found. Running OCR...
+6/18/2025 11:38:15 AM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 11:56:58 AM: Device opened successfully.
+6/18/2025 11:57:00 AM: Images captured successfully.
+6/18/2025 11:57:00 AM: wh.jpg found. Running OCR...
+6/18/2025 11:57:12 AM: OCR Output:
+Starting OCR and parsing for: bin\Release\wh.jpg
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 11:58:16 AM: Device opened successfully.
+6/18/2025 11:58:18 AM: Images captured successfully.
+6/18/2025 11:58:18 AM: wh.jpg found. Running OCR...
+6/18/2025 11:58:30 AM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 11:58:47 AM: Device opened successfully.
+6/18/2025 11:58:49 AM: Images captured successfully.
+6/18/2025 11:58:49 AM: wh.jpg found. Running OCR...
+6/18/2025 11:59:00 AM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 12:00:09 PM: Device opened successfully.
+6/18/2025 12:00:10 PM: Images captured successfully.
+6/18/2025 12:00:10 PM: wh.jpg found. Running OCR...
+6/18/2025 12:00:22 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 12:00:31 PM: Device opened successfully.
+6/18/2025 12:00:33 PM: Images captured successfully.
+6/18/2025 12:00:33 PM: wh.jpg found. Running OCR...
+6/18/2025 12:00:43 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 12:00:58 PM: Device opened successfully.
+6/18/2025 12:00:59 PM: Images captured successfully.
+6/18/2025 12:00:59 PM: wh.jpg found. Running OCR...
+6/18/2025 12:01:11 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 12:01:16 PM: Device opened successfully.
+6/18/2025 12:01:18 PM: Images captured successfully.
+6/18/2025 12:01:18 PM: wh.jpg found. Running OCR...
+6/18/2025 12:01:30 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 12:02:03 PM: Device opened successfully.
+6/18/2025 12:02:04 PM: Images captured successfully.
+6/18/2025 12:02:04 PM: wh.jpg found. Running OCR...
+6/18/2025 12:02:16 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 12:03:24 PM: Device opened successfully.
+6/18/2025 12:03:25 PM: Images captured successfully.
+6/18/2025 12:03:25 PM: wh.jpg found. Running OCR...
+6/18/2025 12:03:37 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 12:03:58 PM: Device opened successfully.
+6/18/2025 12:04:00 PM: Images captured successfully.
+6/18/2025 12:04:00 PM: wh.jpg found. Running OCR...
+6/18/2025 12:04:10 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 12:30:55 PM: Device opened successfully.
+6/18/2025 12:30:56 PM: Images captured successfully.
+6/18/2025 12:30:56 PM: wh.jpg found. Running OCR...
+6/18/2025 12:31:07 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 12:31:16 PM: Device opened successfully.
+6/18/2025 12:31:18 PM: Images captured successfully.
+6/18/2025 12:31:18 PM: wh.jpg found. Running OCR...
+6/18/2025 12:31:30 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 12:44:55 PM: Device opened successfully.
+6/18/2025 12:44:57 PM: Images captured successfully.
+6/18/2025 12:44:57 PM: wh.jpg found. Running OCR...
+6/18/2025 12:45:10 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 1:02:17 PM: Device opened successfully.
+6/18/2025 1:02:19 PM: Images captured successfully.
+6/18/2025 1:02:19 PM: wh.jpg found. Running OCR...
+6/18/2025 1:02:30 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 1:03:11 PM: Device opened successfully.
+6/18/2025 1:03:13 PM: Images captured successfully.
+6/18/2025 1:03:13 PM: wh.jpg found. Running OCR...
+6/18/2025 1:03:24 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 1:15:20 PM: Device opened successfully.
+6/18/2025 1:15:21 PM: Images captured successfully.
+6/18/2025 1:15:21 PM: wh.jpg found. Running OCR...
+6/18/2025 1:15:32 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 1:25:36 PM: Device opened successfully.
+6/18/2025 1:25:38 PM: Images captured successfully.
+6/18/2025 1:25:38 PM: wh.jpg found. Running OCR...
+6/18/2025 1:25:49 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 1:25:59 PM: Device opened successfully.
+6/18/2025 1:26:01 PM: Images captured successfully.
+6/18/2025 1:26:01 PM: wh.jpg found. Running OCR...
+6/18/2025 1:26:12 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 1:26:24 PM: Device opened successfully.
+6/18/2025 1:26:26 PM: Images captured successfully.
+6/18/2025 1:26:26 PM: wh.jpg found. Running OCR...
+6/18/2025 1:26:38 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 1:26:53 PM: Device opened successfully.
+6/18/2025 1:26:55 PM: Images captured successfully.
+6/18/2025 1:26:55 PM: wh.jpg found. Running OCR...
+6/18/2025 1:27:06 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 1:27:21 PM: Device opened successfully.
+6/18/2025 1:27:22 PM: Images captured successfully.
+6/18/2025 1:27:22 PM: wh.jpg found. Running OCR...
+6/18/2025 1:27:34 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 3:38:56 PM: Device opened successfully.
+6/18/2025 3:38:59 PM: Images captured successfully.
+6/18/2025 3:38:59 PM: wh.jpg found. Running OCR...
+6/18/2025 3:39:28 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 3:39:52 PM: Device opened successfully.
+6/18/2025 3:39:55 PM: Images captured successfully.
+6/18/2025 3:39:55 PM: wh.jpg found. Running OCR...
+6/18/2025 3:40:22 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 3:41:16 PM: Device opened successfully.
+6/18/2025 3:41:19 PM: Images captured successfully.
+6/18/2025 3:41:19 PM: wh.jpg found. Running OCR...
+6/18/2025 3:41:51 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 3:42:17 PM: Device opened successfully.
+6/18/2025 3:42:21 PM: Images captured successfully.
+6/18/2025 3:42:21 PM: wh.jpg found. Running OCR...
+6/18/2025 3:42:58 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 3:43:34 PM: Device opened successfully.
+6/18/2025 3:43:37 PM: Images captured successfully.
+6/18/2025 3:43:37 PM: wh.jpg found. Running OCR...
+6/18/2025 3:44:16 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/18/2025 3:44:45 PM: Device opened successfully.
+6/18/2025 3:44:48 PM: Images captured successfully.
+6/18/2025 3:44:48 PM: wh.jpg found. Running OCR...
+6/18/2025 3:45:34 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 11:17:37 AM: Device opened successfully.
+6/20/2025 11:17:39 AM: Images captured successfully.
+6/20/2025 11:17:39 AM: wh.jpg found. Running OCR...
+6/20/2025 11:17:49 AM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 11:18:08 AM: Device opened successfully.
+6/20/2025 11:18:10 AM: Images captured successfully.
+6/20/2025 11:18:10 AM: wh.jpg found. Running OCR...
+6/20/2025 11:18:20 AM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 11:18:34 AM: Device opened successfully.
+6/20/2025 11:18:36 AM: Images captured successfully.
+6/20/2025 11:18:36 AM: wh.jpg found. Running OCR...
+6/20/2025 11:18:46 AM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 11:19:10 AM: Device opened successfully.
+6/20/2025 11:19:12 AM: Images captured successfully.
+6/20/2025 11:19:12 AM: wh.jpg found. Running OCR...
+6/20/2025 11:19:24 AM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 11:52:10 AM: Device opened successfully.
+6/20/2025 11:52:12 AM: Images captured successfully.
+6/20/2025 11:52:12 AM: wh.jpg found. Running OCR...
+6/20/2025 11:52:25 AM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 11:52:38 AM: Device opened successfully.
+6/20/2025 11:52:40 AM: Images captured successfully.
+6/20/2025 11:52:40 AM: wh.jpg found. Running OCR...
+6/20/2025 11:52:52 AM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 11:57:33 AM: Device opened successfully.
+6/20/2025 11:57:34 AM: Images captured successfully.
+6/20/2025 11:57:34 AM: wh.jpg found. Running OCR...
+6/20/2025 11:57:45 AM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 12:08:08 PM: Device opened successfully.
+6/20/2025 12:08:10 PM: Images captured successfully.
+6/20/2025 12:08:10 PM: wh.jpg found. Running OCR...
+6/20/2025 12:08:21 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 12:10:16 PM: Device opened successfully.
+6/20/2025 12:10:16 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:14:34 PM: Device opened successfully.
+6/20/2025 12:14:34 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:14:52 PM: Device opened successfully.
+6/20/2025 12:14:52 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:23:44 PM: Device opened successfully.
+6/20/2025 12:23:44 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:25:53 PM: Device opened successfully.
+6/20/2025 12:25:53 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:26:40 PM: Device opened successfully.
+6/20/2025 12:26:40 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:27:08 PM: Device opened successfully.
+6/20/2025 12:27:08 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:27:34 PM: Device opened successfully.
+6/20/2025 12:27:34 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:27:48 PM: Device opened successfully.
+6/20/2025 12:27:50 PM: Images captured successfully.
+6/20/2025 12:27:50 PM: wh.jpg found. Running OCR...
+6/20/2025 12:27:59 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 12:28:21 PM: Device opened successfully.
+6/20/2025 12:28:23 PM: Images captured successfully.
+6/20/2025 12:28:23 PM: wh.jpg found. Running OCR...
+6/20/2025 12:28:33 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 12:28:44 PM: Device opened successfully.
+6/20/2025 12:28:44 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:29:01 PM: Device opened successfully.
+6/20/2025 12:29:02 PM: Images captured successfully.
+6/20/2025 12:29:02 PM: wh.jpg found. Running OCR...
+6/20/2025 12:29:12 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 12:34:12 PM: Device opened successfully.
+6/20/2025 12:34:12 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:34:44 PM: Device opened successfully.
+6/20/2025 12:34:46 PM: Images captured successfully.
+6/20/2025 12:34:46 PM: wh.jpg found. Running OCR...
+6/20/2025 12:34:56 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 12:40:18 PM: Device opened successfully.
+6/20/2025 12:40:20 PM: Images captured successfully.
+6/20/2025 12:40:20 PM: wh.jpg found. Running OCR...
+6/20/2025 12:40:29 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 12:40:45 PM: Device opened successfully.
+6/20/2025 12:40:45 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:40:58 PM: Device opened successfully.
+6/20/2025 12:40:59 PM: Images captured successfully.
+6/20/2025 12:40:59 PM: wh.jpg found. Running OCR...
+6/20/2025 12:41:09 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 12:42:28 PM: Device opened successfully.
+6/20/2025 12:42:28 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:42:56 PM: Device opened successfully.
+6/20/2025 12:42:58 PM: Images captured successfully.
+6/20/2025 12:42:58 PM: wh.jpg found. Running OCR...
+6/20/2025 12:43:15 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 12:44:22 PM: Device opened successfully.
+6/20/2025 12:44:22 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:44:34 PM: Device opened successfully.
+6/20/2025 12:44:35 PM: Images captured successfully.
+6/20/2025 12:44:35 PM: wh.jpg found. Running OCR...
+6/20/2025 12:44:45 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 12:46:18 PM: Device opened successfully.
+6/20/2025 12:46:18 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:46:44 PM: Device opened successfully.
+6/20/2025 12:46:44 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:46:55 PM: Device opened successfully.
+6/20/2025 12:46:57 PM: Images captured successfully.
+6/20/2025 12:46:57 PM: wh.jpg found. Running OCR...
+6/20/2025 12:47:06 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 12:47:52 PM: Device opened successfully.
+6/20/2025 12:47:52 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:48:07 PM: Device opened successfully.
+6/20/2025 12:48:08 PM: Images captured successfully.
+6/20/2025 12:48:08 PM: wh.jpg found. Running OCR...
+6/20/2025 12:48:18 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 12:49:19 PM: Device opened successfully.
+6/20/2025 12:49:19 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:49:31 PM: Device opened successfully.
+6/20/2025 12:49:33 PM: Images captured successfully.
+6/20/2025 12:49:33 PM: wh.jpg found. Running OCR...
+6/20/2025 12:49:43 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 12:52:21 PM: Device opened successfully.
+6/20/2025 12:52:23 PM: Images captured successfully.
+6/20/2025 12:52:23 PM: wh.jpg found. Running OCR...
+6/20/2025 12:52:33 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 12:52:50 PM: Device opened successfully.
+6/20/2025 12:52:50 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:53:08 PM: Device opened successfully.
+6/20/2025 12:53:09 PM: Images captured successfully.
+6/20/2025 12:53:09 PM: wh.jpg found. Running OCR...
+6/20/2025 12:53:19 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 12:53:38 PM: Device opened successfully.
+6/20/2025 12:53:40 PM: Images captured successfully.
+6/20/2025 12:53:40 PM: wh.jpg found. Running OCR...
+6/20/2025 12:53:50 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 12:54:05 PM: Device opened successfully.
+6/20/2025 12:54:05 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 12:54:22 PM: Device opened successfully.
+6/20/2025 12:54:24 PM: Images captured successfully.
+6/20/2025 12:54:24 PM: wh.jpg found. Running OCR...
+6/20/2025 12:54:34 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 1:45:36 PM: Device opened successfully.
+6/20/2025 1:45:36 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:45:38 PM: Device opened successfully.
+6/20/2025 1:45:38 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:45:41 PM: Device opened successfully.
+6/20/2025 1:45:41 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:45:44 PM: Device opened successfully.
+6/20/2025 1:45:44 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:45:47 PM: Device opened successfully.
+6/20/2025 1:45:47 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:45:49 PM: Device opened successfully.
+6/20/2025 1:45:51 PM: Images captured successfully.
+6/20/2025 1:45:51 PM: wh.jpg found. Running OCR...
+6/20/2025 1:46:02 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 1:48:34 PM: Device opened successfully.
+6/20/2025 1:48:34 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:48:37 PM: Device opened successfully.
+6/20/2025 1:48:37 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:48:39 PM: Device opened successfully.
+6/20/2025 1:48:39 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:48:42 PM: Device opened successfully.
+6/20/2025 1:48:44 PM: Images captured successfully.
+6/20/2025 1:48:44 PM: wh.jpg found. Running OCR...
+6/20/2025 1:48:52 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 1:49:12 PM: Device opened successfully.
+6/20/2025 1:49:12 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:49:14 PM: Device opened successfully.
+6/20/2025 1:49:14 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:49:17 PM: Device opened successfully.
+6/20/2025 1:49:17 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:49:20 PM: Device opened successfully.
+6/20/2025 1:49:21 PM: Images captured successfully.
+6/20/2025 1:49:21 PM: wh.jpg found. Running OCR...
+6/20/2025 1:49:31 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 1:49:50 PM: Device opened successfully.
+6/20/2025 1:49:50 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:49:53 PM: Device opened successfully.
+6/20/2025 1:49:53 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:49:55 PM: Device opened successfully.
+6/20/2025 1:49:55 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:49:58 PM: Device opened successfully.
+6/20/2025 1:49:58 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:01 PM: Device opened successfully.
+6/20/2025 1:50:01 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:03 PM: Device opened successfully.
+6/20/2025 1:50:03 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:06 PM: Device opened successfully.
+6/20/2025 1:50:06 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:09 PM: Device opened successfully.
+6/20/2025 1:50:09 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:11 PM: Device opened successfully.
+6/20/2025 1:50:11 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:14 PM: Device opened successfully.
+6/20/2025 1:50:14 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:17 PM: Device opened successfully.
+6/20/2025 1:50:17 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:20 PM: Device opened successfully.
+6/20/2025 1:50:20 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:22 PM: Device opened successfully.
+6/20/2025 1:50:22 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:25 PM: Device opened successfully.
+6/20/2025 1:50:25 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:28 PM: Device opened successfully.
+6/20/2025 1:50:28 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:30 PM: Device opened successfully.
+6/20/2025 1:50:30 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:33 PM: Device opened successfully.
+6/20/2025 1:50:33 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:36 PM: Device opened successfully.
+6/20/2025 1:50:36 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:38 PM: Device opened successfully.
+6/20/2025 1:50:38 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:41 PM: Device opened successfully.
+6/20/2025 1:50:41 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:44 PM: Device opened successfully.
+6/20/2025 1:50:44 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:46 PM: Device opened successfully.
+6/20/2025 1:50:46 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:49 PM: Device opened successfully.
+6/20/2025 1:50:49 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:52 PM: Device opened successfully.
+6/20/2025 1:50:52 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:54 PM: Device opened successfully.
+6/20/2025 1:50:54 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:50:57 PM: Device opened successfully.
+6/20/2025 1:50:57 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:51:00 PM: Device opened successfully.
+6/20/2025 1:51:00 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:51:02 PM: Device opened successfully.
+6/20/2025 1:51:02 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:51:05 PM: Device opened successfully.
+6/20/2025 1:51:05 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:51:08 PM: Device opened successfully.
+6/20/2025 1:51:08 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:51:10 PM: Device opened successfully.
+6/20/2025 1:51:10 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:51:13 PM: Device opened successfully.
+6/20/2025 1:51:13 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:51:16 PM: Device opened successfully.
+6/20/2025 1:51:18 PM: Images captured successfully.
+6/20/2025 1:51:18 PM: wh.jpg found. Running OCR...
+6/20/2025 1:51:27 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 1:52:11 PM: Device opened successfully.
+6/20/2025 1:52:13 PM: Images captured successfully.
+6/20/2025 1:52:13 PM: wh.jpg found. Running OCR...
+6/20/2025 1:52:23 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 1:52:42 PM: Device opened successfully.
+6/20/2025 1:52:43 PM: Images captured successfully.
+6/20/2025 1:52:43 PM: wh.jpg found. Running OCR...
+6/20/2025 1:52:53 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+
+--- Final Extracted CNIC Fields ---
+Name: None
+Father Name: None
+CNIC Number: None
+Date of Birth: None
+Gender: None
+Country of Stay: None
+
+6/20/2025 1:53:13 PM: Device opened successfully.
+6/20/2025 1:53:13 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:53:15 PM: Device opened successfully.
+6/20/2025 1:53:15 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:53:18 PM: Device opened successfully.
+6/20/2025 1:53:18 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 1:53:21 PM: Device opened successfully.
+6/20/2025 1:53:21 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:04:57 PM: Device opened successfully.
+6/20/2025 2:04:57 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:05:00 PM: Device opened successfully.
+6/20/2025 2:05:00 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:05:02 PM: Device opened successfully.
+6/20/2025 2:05:02 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:05:05 PM: Device opened successfully.
+6/20/2025 2:05:07 PM: Images captured successfully.
+6/20/2025 2:05:07 PM: wh.jpg found. Running OCR...
+6/20/2025 2:05:16 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 2:05:34 PM: Device opened successfully.
+6/20/2025 2:05:36 PM: Images captured successfully.
+6/20/2025 2:05:36 PM: wh.jpg found. Running OCR...
+6/20/2025 2:05:45 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 2:06:05 PM: Device opened successfully.
+6/20/2025 2:06:07 PM: Images captured successfully.
+6/20/2025 2:06:07 PM: wh.jpg found. Running OCR...
+6/20/2025 2:06:17 PM: OCR Output:
+Error: Image file not found at bin\Release\wh.jpg
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 2:14:16 PM: Device opened successfully.
+6/20/2025 2:14:18 PM: Images captured successfully.
+6/20/2025 2:14:18 PM: wh.jpg found. Running OCR...
+6/20/2025 2:14:27 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 2:14:45 PM: Device opened successfully.
+6/20/2025 2:14:47 PM: Images captured successfully.
+6/20/2025 2:14:47 PM: wh.jpg found. Running OCR...
+6/20/2025 2:14:56 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 2:15:16 PM: Device opened successfully.
+6/20/2025 2:15:16 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:15:19 PM: Device opened successfully.
+6/20/2025 2:15:19 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:15:21 PM: Device opened successfully.
+6/20/2025 2:15:21 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:15:24 PM: Device opened successfully.
+6/20/2025 2:15:24 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:15:27 PM: Device opened successfully.
+6/20/2025 2:15:27 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:15:29 PM: Device opened successfully.
+6/20/2025 2:15:29 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:15:32 PM: Device opened successfully.
+6/20/2025 2:15:32 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:15:35 PM: Device opened successfully.
+6/20/2025 2:15:35 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:15:37 PM: Device opened successfully.
+6/20/2025 2:15:37 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:15:40 PM: Device opened successfully.
+6/20/2025 2:15:40 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:15:43 PM: Device opened successfully.
+6/20/2025 2:15:43 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:15:45 PM: Device opened successfully.
+6/20/2025 2:15:45 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:15:48 PM: Device opened successfully.
+6/20/2025 2:15:48 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:19:33 PM: Device opened successfully.
+6/20/2025 2:19:33 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:19:36 PM: Device opened successfully.
+6/20/2025 2:19:38 PM: Images captured successfully.
+6/20/2025 2:19:38 PM: wh.jpg found. Running OCR...
+6/20/2025 2:19:47 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 2:25:09 PM: Device opened successfully.
+6/20/2025 2:25:09 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:25:12 PM: Device opened successfully.
+6/20/2025 2:25:12 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:25:14 PM: Device opened successfully.
+6/20/2025 2:25:16 PM: Images captured successfully.
+6/20/2025 2:25:16 PM: wh.jpg found. Running OCR...
+6/20/2025 2:25:26 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 2:25:44 PM: Device opened successfully.
+6/20/2025 2:25:46 PM: Images captured successfully.
+6/20/2025 2:25:46 PM: wh.jpg found. Running OCR...
+6/20/2025 2:25:55 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 2:26:14 PM: Device opened successfully.
+6/20/2025 2:26:16 PM: Images captured successfully.
+6/20/2025 2:26:16 PM: wh.jpg found. Running OCR...
+6/20/2025 2:26:26 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 2:26:45 PM: Device opened successfully.
+6/20/2025 2:26:45 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:26:48 PM: Device opened successfully.
+6/20/2025 2:26:48 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:26:50 PM: Device opened successfully.
+6/20/2025 2:26:50 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:37:10 PM: Device opened successfully.
+6/20/2025 2:37:12 PM: Images captured successfully.
+6/20/2025 2:37:12 PM: wh.jpg found. Running OCR...
+6/20/2025 2:37:21 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 2:37:40 PM: Device opened successfully.
+6/20/2025 2:37:40 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:37:43 PM: Device opened successfully.
+6/20/2025 2:37:43 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:37:48 PM: Device opened successfully.
+6/20/2025 2:37:48 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:37:51 PM: Device opened successfully.
+6/20/2025 2:37:51 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:37:53 PM: Device opened successfully.
+6/20/2025 2:37:53 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:37:56 PM: Device opened successfully.
+6/20/2025 2:37:58 PM: Images captured successfully.
+6/20/2025 2:37:58 PM: wh.jpg found. Running OCR...
+6/20/2025 2:38:07 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 2:38:26 PM: Device opened successfully.
+6/20/2025 2:38:28 PM: Images captured successfully.
+6/20/2025 2:38:28 PM: wh.jpg found. Running OCR...
+6/20/2025 2:38:37 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 2:38:57 PM: Device opened successfully.
+6/20/2025 2:38:59 PM: Images captured successfully.
+6/20/2025 2:38:59 PM: wh.jpg found. Running OCR...
+6/20/2025 2:39:09 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 2:39:29 PM: Device opened successfully.
+6/20/2025 2:39:29 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:39:32 PM: Device opened successfully.
+6/20/2025 2:39:32 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:39:34 PM: Device opened successfully.
+6/20/2025 2:39:34 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:39:37 PM: Device opened successfully.
+6/20/2025 2:39:37 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:39:40 PM: Device opened successfully.
+6/20/2025 2:39:40 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 2:55:25 PM: Device opened successfully.
+6/20/2025 2:55:26 PM: Images captured successfully.
+6/20/2025 2:55:26 PM: wh.jpg found. Running OCR...
+6/20/2025 2:55:36 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 2:55:54 PM: Device opened successfully.
+6/20/2025 2:55:56 PM: Images captured successfully.
+6/20/2025 2:55:56 PM: wh.jpg found. Running OCR...
+6/20/2025 2:56:05 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 2:56:25 PM: Device opened successfully.
+6/20/2025 2:56:27 PM: Images captured successfully.
+6/20/2025 2:56:27 PM: wh.jpg found. Running OCR...
+6/20/2025 2:56:37 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 2:56:57 PM: Device opened successfully.
+6/20/2025 2:56:59 PM: Images captured successfully.
+6/20/2025 2:56:59 PM: wh.jpg found. Running OCR...
+6/20/2025 2:57:09 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 2:57:30 PM: Device opened successfully.
+6/20/2025 2:57:32 PM: Images captured successfully.
+6/20/2025 2:57:32 PM: wh.jpg found. Running OCR...
+6/20/2025 2:57:42 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 2:58:03 PM: Device opened successfully.
+6/20/2025 2:58:05 PM: Images captured successfully.
+6/20/2025 2:58:05 PM: wh.jpg found. Running OCR...
+6/20/2025 2:58:15 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:01:59 PM: Device opened successfully.
+6/20/2025 3:01:59 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:02:01 PM: Device opened successfully.
+6/20/2025 3:02:01 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:02:04 PM: Device opened successfully.
+6/20/2025 3:02:06 PM: Images captured successfully.
+6/20/2025 3:02:06 PM: wh.jpg found. Running OCR...
+6/20/2025 3:02:15 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:02:36 PM: Device opened successfully.
+6/20/2025 3:02:36 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:02:39 PM: Device opened successfully.
+6/20/2025 3:02:39 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:02:41 PM: Device opened successfully.
+6/20/2025 3:02:41 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:02:44 PM: Device opened successfully.
+6/20/2025 3:02:44 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:02:47 PM: Device opened successfully.
+6/20/2025 3:02:48 PM: Images captured successfully.
+6/20/2025 3:02:48 PM: wh.jpg found. Running OCR...
+6/20/2025 3:02:58 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:03:24 PM: Device opened successfully.
+6/20/2025 3:03:24 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:03:27 PM: Device opened successfully.
+6/20/2025 3:03:27 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:03:29 PM: Device opened successfully.
+6/20/2025 3:03:29 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:03:32 PM: Device opened successfully.
+6/20/2025 3:03:32 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:03:35 PM: Device opened successfully.
+6/20/2025 3:03:35 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:03:37 PM: Device opened successfully.
+6/20/2025 3:03:39 PM: Images captured successfully.
+6/20/2025 3:03:39 PM: wh.jpg found. Running OCR...
+6/20/2025 3:03:49 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:04:18 PM: Device opened successfully.
+6/20/2025 3:04:18 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:04:21 PM: Device opened successfully.
+6/20/2025 3:04:21 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:04:24 PM: Device opened successfully.
+6/20/2025 3:04:24 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:04:26 PM: Device opened successfully.
+6/20/2025 3:04:26 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:04:29 PM: Device opened successfully.
+6/20/2025 3:04:29 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:04:32 PM: Device opened successfully.
+6/20/2025 3:04:32 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:04:34 PM: Device opened successfully.
+6/20/2025 3:04:34 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:04:37 PM: Device opened successfully.
+6/20/2025 3:04:37 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:04:40 PM: Device opened successfully.
+6/20/2025 3:04:40 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:04:43 PM: Device opened successfully.
+6/20/2025 3:04:43 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:08:52 PM: Device opened successfully.
+6/20/2025 3:08:52 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:08:56 PM: Device opened successfully.
+6/20/2025 3:08:58 PM: Images captured successfully.
+6/20/2025 3:08:58 PM: wh.jpg found. Running OCR...
+6/20/2025 3:09:06 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:09:35 PM: Device opened successfully.
+6/20/2025 3:09:35 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:09:40 PM: Device opened successfully.
+6/20/2025 3:09:41 PM: Images captured successfully.
+6/20/2025 3:09:41 PM: wh.jpg found. Running OCR...
+6/20/2025 3:09:50 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:10:18 PM: Device opened successfully.
+6/20/2025 3:10:18 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:13:35 PM: Device opened successfully.
+6/20/2025 3:13:35 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:13:39 PM: Device opened successfully.
+6/20/2025 3:13:41 PM: Images captured successfully.
+6/20/2025 3:13:41 PM: wh.jpg found. Running OCR...
+6/20/2025 3:13:50 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:14:39 PM: Device opened successfully.
+6/20/2025 3:14:39 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:15:16 PM: Device opened successfully.
+6/20/2025 3:15:16 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:15:21 PM: Device opened successfully.
+6/20/2025 3:15:21 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:15:25 PM: Device opened successfully.
+6/20/2025 3:15:25 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:15:29 PM: Device opened successfully.
+6/20/2025 3:15:29 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:15:34 PM: Device opened successfully.
+6/20/2025 3:15:34 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:15:38 PM: Device opened successfully.
+6/20/2025 3:15:40 PM: Images captured successfully.
+6/20/2025 3:15:40 PM: wh.jpg found. Running OCR...
+6/20/2025 3:15:50 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:16:09 PM: Device opened successfully.
+6/20/2025 3:16:11 PM: Images captured successfully.
+6/20/2025 3:16:11 PM: wh.jpg found. Running OCR...
+6/20/2025 3:16:21 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:16:52 PM: Device opened successfully.
+6/20/2025 3:16:54 PM: Images captured successfully.
+6/20/2025 3:16:54 PM: wh.jpg found. Running OCR...
+6/20/2025 3:17:08 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:19:33 PM: Device opened successfully.
+6/20/2025 3:19:33 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:19:38 PM: Device opened successfully.
+6/20/2025 3:19:40 PM: Images captured successfully.
+6/20/2025 3:19:40 PM: wh.jpg found. Running OCR...
+6/20/2025 3:20:06 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:20:48 PM: Device opened successfully.
+6/20/2025 3:20:50 PM: Images captured successfully.
+6/20/2025 3:20:50 PM: wh.jpg found. Running OCR...
+6/20/2025 3:21:04 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:22:08 PM: Device opened successfully.
+6/20/2025 3:22:10 PM: Images captured successfully.
+6/20/2025 3:22:10 PM: wh.jpg found. Running OCR...
+6/20/2025 3:22:25 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:23:01 PM: Device opened successfully.
+6/20/2025 3:23:03 PM: Images captured successfully.
+6/20/2025 3:23:03 PM: wh.jpg found. Running OCR...
+6/20/2025 3:23:17 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:44:46 PM: Device opened successfully.
+6/20/2025 3:44:48 PM: Images captured successfully.
+6/20/2025 3:44:48 PM: wh.jpg found. Running OCR...
+6/20/2025 3:44:57 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:45:29 PM: Device opened successfully.
+6/20/2025 3:45:29 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:45:33 PM: Device opened successfully.
+6/20/2025 3:45:35 PM: Images captured successfully.
+6/20/2025 3:45:35 PM: wh.jpg found. Running OCR...
+6/20/2025 3:45:45 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:46:15 PM: Device opened successfully.
+6/20/2025 3:46:15 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:48:43 PM: Device opened successfully.
+6/20/2025 3:48:43 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:48:47 PM: Device opened successfully.
+6/20/2025 3:48:49 PM: Images captured successfully.
+6/20/2025 3:48:49 PM: wh.jpg found. Running OCR...
+6/20/2025 3:48:58 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:49:28 PM: Device opened successfully.
+6/20/2025 3:49:28 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:49:32 PM: Device opened successfully.
+6/20/2025 3:49:34 PM: Images captured successfully.
+6/20/2025 3:49:34 PM: wh.jpg found. Running OCR...
+6/20/2025 3:49:44 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:50:16 PM: Device opened successfully.
+6/20/2025 3:50:16 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:50:21 PM: Device opened successfully.
+6/20/2025 3:50:21 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:50:25 PM: Device opened successfully.
+6/20/2025 3:50:25 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:50:29 PM: Device opened successfully.
+6/20/2025 3:50:29 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:50:34 PM: Device opened successfully.
+6/20/2025 3:50:34 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:57:49 PM: Device opened successfully.
+6/20/2025 3:57:49 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:57:54 PM: Device opened successfully.
+6/20/2025 3:57:54 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:57:58 PM: Device opened successfully.
+6/20/2025 3:58:00 PM: Images captured successfully.
+6/20/2025 3:58:00 PM: wh.jpg found. Running OCR...
+6/20/2025 3:58:09 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/20/2025 3:58:32 PM: Device opened successfully.
+6/20/2025 3:58:32 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:58:36 PM: Device opened successfully.
+6/20/2025 3:58:36 PM: No card detected on device. Please place the CNIC first.
+6/20/2025 3:58:40 PM: Device opened successfully.
+6/20/2025 3:58:42 PM: Images captured successfully.
+6/20/2025 3:58:42 PM: wh.jpg found. Running OCR...
+6/20/2025 3:58:52 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+
+6/24/2025 1:52:45 PM: Device opened successfully.
+6/24/2025 1:52:47 PM: Images captured successfully.
+6/24/2025 1:52:47 PM: wh.jpg found. Running OCR...
+6/24/2025 1:53:07 PM: OCR Output:
+{"Name": null, "Father Name": null, "CNIC Number": null, "Date of Birth": null, "Gender": null, "Country of Stay": null}
+

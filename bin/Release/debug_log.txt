@@ -1,0 +1,10 @@
+Args: 
+Normal mode triggered
+Args: 
+Normal mode triggered
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card

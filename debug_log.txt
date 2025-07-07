@@ -1,0 +1,1375 @@
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --check-card
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --silent
+Silent mode triggered
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
+Args: --write-card-status
