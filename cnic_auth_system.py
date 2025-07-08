@@ -20,8 +20,6 @@ def init_db():
     conn.close()
 
 # Send email with authorization links
-# ziqbqypoluwigrkq
-
 def send_email(data, token):
     sender_email = "afsahyder.8@gmail.com"
     password = os.getenv("EMAIL_PASSWORD", "your_app_password")  # Use env variable
