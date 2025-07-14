@@ -1,120 +1,177 @@
 import sqlite3
-import uuid
-import smtplib
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
+import imaplib
+import email
+import re
+from email.header import decode_header
 from flask import Flask, request, jsonify
-from datetime import datetime, timedelta
 import os
+import time
+from threading import Thread
+from datetime import datetime
 
 app = Flask(__name__)
 
 # Database setup
+DB_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'cnic_database.db')
+
 def init_db():
-    conn = sqlite3.connect('cnic_database.db')
+    conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
-    c.execute('''CREATE TABLE IF NOT EXISTS cnic_records
-                 (id INTEGER PRIMARY KEY, cnic_number TEXT, name TEXT, fat2her_name TEXT,
-                  dob TEXT, gender TEXT, country TEXT, status TEXT, token TEXT, token_created_at TEXT)''')
+    c.execute('''CREATE TABLE IF NOT EXISTS guests
+                 (id INTEGER PRIMARY KEY,
+                  cnic TEXT UNIQUE,
+                  name TEXT,
+                  status TEXT DEFAULT 'approved',
+                  added_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP)''')
     conn.commit()
     conn.close()
 
-# Send email with authorization links
-# ziqbqypoluwigrkq
+def extract_cnic(text):
+    """Extract CNIC from email text using regex"""
+    matches = re.findall(r'\b\d{5}-\d{7}-\d{1}\b', text)  # Standard CNIC format
+    return matches[0] if matches else None
 
-def send_email(data, token):
-    sender_email = "afsahyder.8@gmail.com"
-    password = os.getenv("EMAIL_PASSWORD", "your_app_password")  # Use env variable
-    receiver_email = "safahbilal13@gmail.com"
-    smtp_server = "smtp.gmail.com"
-    smtp_port = 587
-    
-    message = MIMEMultipart()
-    message['From'] = sender_email
-    message['To'] = receiver_email
-    message['Subject'] = 'CNIC Authorization Request'
-    
-    body = (f"CNIC Details:\n"
-            f"CNIC Number: {data.get('CNIC Number', 'N/A')}\n"
-            f"Name: {data.get('Name', 'N/A')}\n"
-            f"Father Name: {data.get('Father Name', 'N/A')}\n"
-            f"Date of Birth: {data.get('Date of Birth', 'N/A')}\n"
-            f"Gender: {data.get('Gender', 'N/A')}\n"
-            f"Country of Stay: {data.get('Country of Stay', 'N/A')}\n\n"
-            f"Authorize: http://localhost:5000/authorize/{token}\n"
-            f"Deny: http://localhost:5000/deny/{token}")
-    message.attach(MIMEText(body, 'plain'))
-    
+def extract_name(text):
+    """Extract name from email text"""
+    name_match = re.search(r'(?:name|guest)[:\s-]*([^\n]+)', text, re.IGNORECASE)
+    return name_match.group(1).strip() if name_match else "Unknown"
+
+def process_emails():
+    """Background thread to check emails and populate database"""
+    while True:
+        try:
+            # Connect to email server (configure these in your .env file)
+            mail = imaplib.IMAP4_SSL('imap.gmail.com')
+            mail.login(os.getenv('EMAIL_USER'), os.getenv('EMAIL_PASSWORD'))
+            mail.select('inbox')
+
+            # Search for unread emails with CNIC information
+            status, messages = mail.search(None, '(UNSEEN SUBJECT "CNIC")')
+            
+            if status == 'OK':
+                for mail_id in messages[0].split():
+                    status, msg_data = mail.fetch(mail_id, '(RFC822)')
+                    if status == 'OK':
+                        raw_email = msg_data[0][1]
+                        email_message = email.message_from_bytes(raw_email)
+                        
+                        # Get email body text
+                        body = ""
+                        if email_message.is_multipart():
+                            for part in email_message.walk():
+                                if part.get_content_type() == "text/plain":
+                                    body = part.get_payload(decode=True).decode()
+                                    break
+                        else:
+                            body = email_message.get_payload(decode=True).decode()
+                        
+                        # Extract CNIC and name
+                        cnic = extract_cnic(body)
+                        name = extract_name(body)
+                        
+                        if cnic:
+                            conn = sqlite3.connect(DB_PATH)
+                            c = conn.cursor()
+                            c.execute('''INSERT OR IGNORE INTO guests (cnic, name)
+                                         VALUES (?, ?)''', (cnic, name))
+                            conn.commit()
+                            conn.close()
+                            
+                            # Mark email as read
+                            mail.store(mail_id, '+FLAGS', '\\Seen')
+            
+            mail.logout()
+            
+        except Exception as e:
+            print(f"Email processing error: {e}")
+        
+        time.sleep(60)  # Check every minute
+
+@app.route('/check_cnic', methods=['POST'])
+def check_cnic():
+    """Check if CNIC exists in database"""
     try:
-        with smtplib.SMTP(smtp_server, smtp_port) as server:
-            server.starttls()
-            server.login(sender_email, password)
-            server.sendmail(sender_email, receiver_email, message.as_string())
-    except Exception as e:
-        print(f"Email sending failed: {str(e)}")
-
-# Store CNIC data and generate token
-@app.route('/store_cnic', methods=['POST'])
-def store_cnic():
-    data = request.json
-    token = str(uuid.uuid4())
-    token_created_at = datetime.now().isoformat()
-    
-    conn = sqlite3.connect('cnic_database.db')
-    c = conn.cursor()
-    c.execute('''INSERT INTO cnic_records (cnic_number, name, father_name, dob, gender, country, status, token, token_created_at)
-                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)''',
-              (data.get('CNIC Number'), data.get('Name'), data.get('Father Name'),
-               data.get('Date of Birth'), data.get('Gender'), data.get('Country of Stay'),
-               'pending', token, token_created_at))
-    conn.commit()
-    conn.close()
-    
-    send_email(data, token)
-    return jsonify({'message': 'CNIC data stored and email sent', 'token': token})
-
-# Check token expiration
-def is_token_valid(token_created_at):
-    created_time = datetime.fromisoformat(token_created_at)
-    expiration_time = created_time + timedelta(hours=24)
-    return datetime.now() < expiration_time
-
-# Authorize endpoint
-@app.route('/authorize/<token>', methods=['GET'])
-def authorize(token):
-    conn = sqlite3.connect('cnic_database.db')
-    c = conn.cursor()
-    c.execute('SELECT token_created_at FROM cnic_records WHERE token = ?', (token,))
-    result = c.fetchone()
-    if not result:
+        data = request.json
+        if not data or 'cnic' not in data:
+            return jsonify({'error': 'CNIC number is required'}), 400
+        
+        cnic = data['cnic'].strip()
+        if not cnic:
+            return jsonify({'error': 'CNIC cannot be empty'}), 400
+        
+        conn = sqlite3.connect(DB_PATH)
+        c = conn.cursor()
+        
+        # Only check CNIC existence (ignore name)
+        c.execute('SELECT 1 FROM guests WHERE cnic = ?', (cnic,))
+        exists = c.fetchone() is not None
+        
+        return jsonify({
+            'status': 'approved' if exists else 'not_found',
+            'cnic': cnic
+        })
+        
+    except sqlite3.Error as e:
+        return jsonify({'error': f'Database error: {str(e)}'}), 500
+    finally:
         conn.close()
-        return jsonify({'error': 'Invalid token'})
-    if not is_token_valid(result[0]):
-        conn.close()
-        return jsonify({'error': 'Token expired'})
-    c.execute('UPDATE cnic_records SET status = ? WHERE token = ?', ('authorized', token))
-    conn.commit()
-    conn.close()
-    return jsonify({'message': 'CNIC authorized'})
 
-# Deny endpoint
-@app.route('/deny/<token>', methods=['GET'])
-def deny(token):
-    conn = sqlite3.connect('cnic_database.db')
-    c = conn.cursor()
-    c.execute('SELECT token_created_at FROM cnic_records WHERE token = ?', (token,))
-    result = c.fetchone()
-    if not result:
+@app.route('/add_guest', methods=['POST'])
+def add_guest():
+    """Add new guest with CNIC (name optional)"""
+    try:
+        data = request.json
+        if not data or 'cnic' not in data:
+            return jsonify({'error': 'CNIC is required'}), 400
+        
+        cnic = data['cnic'].strip()
+        if not cnic:
+            return jsonify({'error': 'CNIC cannot be empty'}), 400
+        
+        conn = sqlite3.connect(DB_PATH)
+        c = conn.cursor()
+        
+        # Insert or ignore duplicates
+        c.execute('''
+            INSERT OR IGNORE INTO guests (cnic, name)
+            VALUES (?, ?)
+        ''', (cnic, data.get('name', '')))
+        
+        conn.commit()
+        return jsonify({
+            'message': 'Guest added successfully',
+            'cnic': cnic,
+            'action': 'created' if c.rowcount > 0 else 'already_exists'
+        })
+        
+    except sqlite3.Error as e:
+        return jsonify({'error': f'Database error: {str(e)}'}), 500
+    finally:
         conn.close()
-        return jsonify({'error': 'Invalid token'})
-    if not is_token_valid(result[0]):
+
+@app.route('/view_guests', methods=['GET'])
+def view_guests():
+    """View all guests (for debugging)"""
+    try:
+        conn = sqlite3.connect(DB_PATH)
+        c = conn.cursor()
+        
+        c.execute('SELECT cnic, name, added_at FROM guests ORDER BY added_at DESC')
+        guests = [{'cnic': row[0], 'name': row[1], 'added_at': row[2]} 
+                 for row in c.fetchall()]
+        
+        return jsonify({
+            'count': len(guests),
+            'guests': guests
+        })
+    finally:
         conn.close()
-        return jsonify({'error': 'Token expired'})
-    c.execute('UPDATE cnic_records SET status = ? WHERE token = ?', ('denied', token))
-    conn.commit()
-    conn.close()
-    return jsonify({'message': 'CNIC denied'})
 
 if __name__ == '__main__':
     init_db()
-    app.run(debug=True)
+    
+    # Start email processing thread
+    email_thread = Thread(target=process_emails, daemon=True)
+    email_thread.start()
+    
+    app.run(host='0.0.0.0', port=5000)
