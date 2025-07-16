@@ -7,6 +7,7 @@ import requests
 import ttkbootstrap as ttk
 from ttkbootstrap.constants import *
 from tkinter import Tk, Label
+import tkinter as tk
 from ttkbootstrap import Window
 from PIL import Image, ImageTk
 
@@ -21,53 +22,63 @@ POLL_INTERVAL = 1000  # ms
 # GUI Setup
 root = Window(title="CNIC Scanner", themename="superhero", size=(750, 500), resizable=(False, False))
 
-# Load and resize background image
+# --- Canvas Setup ---
+canvas = tk.Canvas(root, width=750, height=500, highlightthickness=0)
+canvas.place(x=0, y=0)
+
+# --- Background Image ---
 bg_img = Image.open("images/blur_cnic.png").resize((750, 500))
-
-# Load logos (PNG with transparency!)
-logo_img = Image.open("images/logo_pso.png").resize((50, 50))
-sting_img = Image.open("images/sray-removebg.png").resize((50, 50))
-
-# Paste logos on background image with transparency mask
-bg_img.paste(logo_img, (20, 10), logo_img)
-bg_img.paste(sting_img, (680, 445), sting_img)
-
-# Convert to PhotoImage and display as one background
 bg_photo = ImageTk.PhotoImage(bg_img)
-bg_label = Label(root, image=bg_photo, borderwidth=0)
-bg_label.place(x=0, y=0, relwidth=1, relheight=1)
+canvas.create_image(0, 0, anchor="nw", image=bg_photo)
 
-# Title text over image
-title_label = Label(root, text="CNIC Scanner & Verifier",
-                    font=("Segoe UI", 24, "bold"),
-                    fg="white",
-                    bg=None)
-title_label.place(x=90, y=20)
+# --- Logos ---
+logo_img = Image.open("images/logo_pso.png").resize((50, 50))
+logo_photo = ImageTk.PhotoImage(logo_img)
+canvas.create_image(20, 10, anchor="nw", image=logo_photo)
 
-# Info block using ttk
+sting_img = Image.open("images/sray-removebg.png").resize((50, 50))
+sting_photo = ImageTk.PhotoImage(sting_img)
+canvas.create_image(680, 445, anchor="nw", image=sting_photo)
+
+# --- Text on Canvas (no shading!) ---
+canvas.create_text(90, 30, anchor="nw",
+                   text="CNIC Scanner & Verifier",
+                   font=("Segoe UI", 24, "bold"),
+                   fill="white")
+
+status_text = canvas.create_text(375, 350, anchor="center",
+                                 text="Status: Ready",
+                                 font=("Segoe UI", 16),
+                                 fill="white")
+
+result_text = canvas.create_text(375, 400, anchor="center",
+                                 text="",
+                                 font=("Consolas", 12),
+                                 fill="white")
+
+canvas.create_text(20, 470, anchor="nw",
+                   text="Powered by StingRey Tech",
+                   font=("Segoe UI", 10),
+                   fill="white")
+
+# --- Info Frame (keep form clean here) ---
 info_frame = ttk.Frame(root, padding=20)
 info_frame.place(relx=0.5, rely=0.45, anchor="center")
 
 ttk.Label(info_frame, text="CNIC:", font=("Segoe UI", 14)).pack(anchor="w")
 ttk.Label(info_frame, text="Name:", font=("Segoe UI", 14)).pack(anchor="w")
 
-# Status label
-status_label = ttk.Label(root, text="Status: Ready", font=("Segoe UI", 16), bootstyle="info")
-status_label.place(relx=0.5, rely=0.70, anchor="center")
-
-# Result label
-result_label = ttk.Label(root, text="", font=("Consolas", 12), foreground="white")
-result_label.place(relx=0.5, rely=0.80, anchor="center")
-
-# Progress bar
-progress = ttk.Progressbar(root, mode='indeterminate', bootstyle="info")
+# --- Progress Bar ---
+progress = ttk.Progressbar(root, mode='indeterminate', bootstyle="striped", length=200)
 progress.place(relx=0.5, rely=0.76, anchor="center")
 progress.pack_forget()
 
-# Footer
-footer = Label(root, text="Powered by StingRey Tech", font=("Segoe UI", 10), fg="white", bg=None)
-footer.place(x=20, y=470)
+# --- Store references for updates ---
+def update_status(msg):
+    canvas.itemconfig(status_text, text=msg)
 
+def update_result(msg):
+    canvas.itemconfig(result_text, text=msg)
 
 # --- UI State Functions ---
 def set_scanning_ui():
