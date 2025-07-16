@@ -21,55 +21,52 @@ POLL_INTERVAL = 1000  # ms
 # GUI Setup
 root = Window(title="CNIC Scanner", themename="superhero", size=(750, 500), resizable=(False, False))
 
-# --- Background Image ---
+# Load and resize background image
 bg_img = Image.open("images/blur_cnic.png").resize((750, 500))
+
+# Load logos (PNG with transparency!)
+logo_img = Image.open("images/logo_pso.png").resize((50, 50))
+sting_img = Image.open("images/sray-removebg.png").resize((50, 50))
+
+# Paste logos on background image with transparency mask
+bg_img.paste(logo_img, (20, 10), logo_img)
+bg_img.paste(sting_img, (680, 445), sting_img)
+
+# Convert to PhotoImage and display as one background
 bg_photo = ImageTk.PhotoImage(bg_img)
 bg_label = Label(root, image=bg_photo, borderwidth=0)
 bg_label.place(x=0, y=0, relwidth=1, relheight=1)
 
-# --- Top Bar ---
-logo_img = Image.open("images/logo_pso.png").resize((50, 50))
-logo_photo = ImageTk.PhotoImage(logo_img)
-logo_label = Label(root, image=logo_photo, bg=None, borderwidth=0)
-logo_label.image = logo_photo
-logo_label.place(x=20, y=10)
-
-title_label = Label(root, text="CNIC Scanner & Verifier", font=("Segoe UI", 24, "bold"), fg="white", bg=None)
+# Title text over image
+title_label = Label(root, text="CNIC Scanner & Verifier",
+                    font=("Segoe UI", 24, "bold"),
+                    fg="white",
+                    bg=None)
 title_label.place(x=90, y=20)
 
-# --- Info Block (keep ttk) ---
-info_frame = ttk.Frame(root, style="TFrame", padding=20)
+# Info block using ttk
+info_frame = ttk.Frame(root, padding=20)
 info_frame.place(relx=0.5, rely=0.45, anchor="center")
 
-cnic_text = ttk.Label(info_frame, text="CNIC:", font=("Segoe UI", 14))
-cnic_text.pack(anchor="w")
+ttk.Label(info_frame, text="CNIC:", font=("Segoe UI", 14)).pack(anchor="w")
+ttk.Label(info_frame, text="Name:", font=("Segoe UI", 14)).pack(anchor="w")
 
-name_text = ttk.Label(info_frame, text="Name:", font=("Segoe UI", 14))
-name_text.pack(anchor="w")
-
-# --- Status Label ---
-status_label = ttk.Label(root, text="Status: Ready", font=("Segoe UI", 16), bootstyle=INFO)
+# Status label
+status_label = ttk.Label(root, text="Status: Ready", font=("Segoe UI", 16), bootstyle="info")
 status_label.place(relx=0.5, rely=0.70, anchor="center")
 
-# --- Result Label ---
-result_label = ttk.Label(root, text="", font=("Consolas", 12), foreground="white", background="")
+# Result label
+result_label = ttk.Label(root, text="", font=("Consolas", 12), foreground="white")
 result_label.place(relx=0.5, rely=0.80, anchor="center")
 
-# --- Progress Bar ---
-progress = ttk.Progressbar(root, mode='indeterminate', bootstyle=INFO)
+# Progress bar
+progress = ttk.Progressbar(root, mode='indeterminate', bootstyle="info")
 progress.place(relx=0.5, rely=0.76, anchor="center")
 progress.pack_forget()
 
-# --- Footer + StingRey Logo ---
+# Footer
 footer = Label(root, text="Powered by StingRey Tech", font=("Segoe UI", 10), fg="white", bg=None)
 footer.place(x=20, y=470)
-
-sting_img = Image.open("images/sray-removebg.png").resize((50, 50))
-sting_photo = ImageTk.PhotoImage(sting_img)
-sting_label = Label(root, image=sting_photo, bg=None, borderwidth=0)
-sting_label.image = sting_photo
-sting_label.place(x=680, y=445)
-
 
 
 # --- UI State Functions ---
